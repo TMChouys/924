@@ -6,7 +6,8 @@ namespace _16號
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World!來接你了唷");
+            Console.Read();
         }
     }
 }
