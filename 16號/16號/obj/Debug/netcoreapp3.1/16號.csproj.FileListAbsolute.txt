@@ -1,0 +1,11 @@
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.exe
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.deps.json
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.runtimeconfig.json
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.runtimeconfig.dev.json
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.dll
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\bin\Debug\netcoreapp3.1\16號.pdb
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\obj\Debug\netcoreapp3.1\16號.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\obj\Debug\netcoreapp3.1\16號.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\obj\Debug\netcoreapp3.1\16號.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\obj\Debug\netcoreapp3.1\16號.dll
+C:\Users\Administrator\Desktop\新增資料夾\924\16號\16號\obj\Debug\netcoreapp3.1\16號.pdb
